@@ -4,7 +4,7 @@ Desenvolver uma função que, dado um número
 inteiro N, *exiba* um triângulo como no exemplo
 abaixo:
 
-		    1  
+	      1  
 	    1 2 1    	  
 	  1 2 3 2 1	  
 	1 2 3 4 3 2 1
